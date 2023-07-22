@@ -128,3 +128,9 @@ hr{
     text-shadow: 2px 2px #153F15;
     text-decoration: none;
 }
+
+.location{
+    color: #00AAAA;
+    font-size: 14px;
+    text-shadow: 2px 2px #002A2A;
+}
