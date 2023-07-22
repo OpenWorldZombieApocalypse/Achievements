@@ -122,3 +122,9 @@ hr{
 .btn:hover {
     background-color: RoyalBlue;
 }
+
+.sturgeon a{
+    color: #55FF55;
+    text-shadow: 2px 2px #153F15;
+    text-decoration: none;
+}
